@@ -1,0 +1,17 @@
+@charset "UTF-8";
+#header{
+	background: #1A47A6;
+	color: #FFFFFF;
+}
+
+#footer{
+	background: #1A47A6;
+	color: #FFFFFF;
+}
+
+#logo{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100px;
+	height: 100px;
+}
